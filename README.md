@@ -53,7 +53,15 @@ My experience doesn't help so much as I was expected and this is dissapointing a
 ![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=Java&logoColor=#1572B6)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C++&logoColor=#1572B6)
 
+### My Hobbies
+
+When I developed game by myself, i've got a new one hobby. I was spent many-many time working on it and after long time i've got that this one makes me calm. Here's my works if you was interested.
+
+[![Artstation](https://img.shields.io/badge/-Artstation-090909?style=for-the-badge&logo=Artstation&logoColor=#13AFF0)](https://www.artstation.com/shatcung)
+
 ### Socials
+
+If you would like to contact me, below are my socials.
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/shatcung)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=LinkedIn&logoColor=27A0D9)](https://linkedin.com/in/shatcung)
