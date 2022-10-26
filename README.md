@@ -30,8 +30,8 @@ My experience doesn't help so much as I was expected and this is dissapointing a
 
 ### Skills | Tools
 
-![AdobeXD](https://img.shields.io/badge/-AdobeXD-090909?style=for-the-badge&logo=AdobeXD&logoColor=#FF61F6)
-![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=##F24E1E)
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-090909?style=for-the-badge&logo=AdobeXD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=#F24E1E)
 
 ![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=Asana&logoColor=#273347)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=#0052CC)
@@ -41,4 +41,11 @@ My experience doesn't help so much as I was expected and this is dissapointing a
 ![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=#181717)
 ![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab&logoColor=#FC6D26)
 
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=Unity&logoColor=#FFFFFF)
+![UnrealEngine](https://img.shields.io/badge/-UnrealEngine-090909?style=for-the-badge&logo=UnrealEngine&logoColor=#0E1128)
+![AndroidStudio](https://img.shields.io/badge/-AndroidStudio-090909?style=for-the-badge&logo=AndroidStudio&logoColor=#3DDC84)
+
+![XAML](https://img.shields.io/badge/-XAML-090909?style=for-the-badge&logo=XAML&logoColor=#0C54C2)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=#E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=#1572B6)
 
