@@ -1,4 +1,4 @@
-<img src="https://github.com/shatcung/shatcung/blob/main/Body/Assets/Logo.png" alt="The Logo" height="350" width="1750"/>
+<img src="https://github.com/shatcung/shatcung/blob/main/Body/Assets/Logo.png" alt="The Logo"/>
 ### Junior QA | Junior GD 👋
 
 <!--
