@@ -2,5 +2,6 @@
 
 ### Junior QA | Junior GD 👋
 
-🔭 I’m currently working on multiplayer mobile project (will be end soon)
-🌱 I’m currently learning Java to become an AQA in future
+<h3>I’m currently working on multiplayer mobile project as junior qa-gd (will be end soon)</h3>
+My working duty is:
+ <li>Functional Testing</li>
