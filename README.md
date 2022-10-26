@@ -1,8 +1,8 @@
 <img src="https://github.com/shatcung/shatcung/blob/main/Body/Assets/Logo.png" alt="The Logo"/>
 
-### Junior QA | Junior GD 👋
+# Junior QA | Junior GD 👋
 
-### My CV
+## My CV
 [![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=Habr&logoColor=#65A3BE)](https://career.habr.com/shatcung1)
 
 <h3>I’m currently working on multiplayer mobile project as junior qa-gd (will be end soon)</h3>
