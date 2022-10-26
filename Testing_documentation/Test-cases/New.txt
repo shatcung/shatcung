@@ -1,0 +1,30 @@
+Example 1:
+
+
+Game version - 1.11XXX
+Platform - Unity
+User ID - ###
+Repetition rate - 100%
+Network - wi-fi
+
+Case: 
+      1.In the admin panel in the Farm room on level 8 of the room set the test value (making a backup beforehand), deploy it
+      2.Take a cast
+      3.Choose farm room
+      4.Remove in worker management
+      5.Compare extraction rate before removing the worker and after
+
+Case 2:
+      1.In the admin panel in the Farm room on level 8 of the room set the test value (making a backup beforehand), deploy it
+      2.Take a cast
+      3.Choose farm room
+      4.Give to the worker thing better than worn
+      5.Compare prey rate before transferring worker and after
+
+Result: Until an action is performed that updates a room's mining status, 
+  the production remains the same and the player receives significantly fewer resources than he should.
+
+Expected Result: Status is updated after changing the data in the admin panel immediately at the entrance to the game. 
+  No need to move, lvl-up, dress the workers, buy prem, wait until the prem ends to update the status of the rooms.
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
