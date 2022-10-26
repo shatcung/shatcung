@@ -30,4 +30,15 @@ My experience doesn't help so much as I was expected and this is dissapointing a
 
 ### Skills | Tools
 
-![AdobeXd](https://img.shields.io/badge/-adobexd-#FF61F6?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![AdobeXD](https://img.shields.io/badge/-AdobeXD-090909?style=for-the-badge&logo=AdobeXD&logoColor=#FF61F6)
+![Figma](https://img.shields.io/badge/-Figma-090909?style=for-the-badge&logo=Figma&logoColor=##F24E1E)
+
+![Asana](https://img.shields.io/badge/-Asana-090909?style=for-the-badge&logo=Asana&logoColor=#273347)
+![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=Jira&logoColor=#0052CC)
+![Notion](https://img.shields.io/badge/-Notion-090909?style=for-the-badge&logo=Notion&logoColor=#000000)
+
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#F05032)
+![Github](https://img.shields.io/badge/-Github-090909?style=for-the-badge&logo=Github&logoColor=#181717)
+![Gitlab](https://img.shields.io/badge/-Gitlab-090909?style=for-the-badge&logo=Gitlab&logoColor=#FC6D26)
+
+
