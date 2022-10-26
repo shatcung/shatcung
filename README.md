@@ -1,4 +1,5 @@
-### Hi there 👋
+<img src="https://github.com/https://github.com/shatcung/shatcung/blob/main/Body/Assets/Logo.png" alt="The Logo" width="180"/>
+### Junior QA | Junior GD 👋
 
 <!--
 **shatcung/shatcung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
