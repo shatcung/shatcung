@@ -5,7 +5,7 @@
 ## My CV
 [![Habr](https://img.shields.io/badge/-Habr-090909?style=for-the-badge&logo=Habr&logoColor=#65A3BE)](https://career.habr.com/shatcung1)
 
-<h3>I was Worked for a while on multiplayer mobile project as junior qa/gd </h3>
+<h3>I was worked for a while on multiplayer mobile project as junior qa/gd </h3>
 My working duty is:
  <li>Functional Testing</li>
  <li>Integration Testing</li>
