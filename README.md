@@ -21,9 +21,6 @@ To reach it, I need to learn more and do practice.
  
 This is why I want to try work as tester, who will work with test-tools.
 
-In this moment I'm trying to learn Java. I want to become an AQA in future.
-My experience doesn't help so much as I was expected and this is dissapointing a little. But I hope that I can get over this problem.
-
 ### Testing Documentation:
 
 <li><a href="https://github.com/shatcung/shatcung/tree/main/Testing_documentation/Bug-reports">Bug-reports</a></li>
