@@ -23,4 +23,3 @@ Case 2:
 
 Expected Result: Status is updated after changing the data in the admin panel immediately at the entrance to the game. 
   No need to move, lvl-up, dress the workers, buy prem, wait until the prem ends to update the status of the rooms.
-
