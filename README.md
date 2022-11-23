@@ -26,6 +26,8 @@ This is why I want to try work as tester, who will work with test-tools.
 <li><a href="https://github.com/shatcung/shatcung/tree/main/Testing_documentation/Bug-reports">Bug-reports</a></li>
 <li><a href="https://github.com/shatcung/shatcung/tree/main/Testing_documentation/Check-lists">Check-lists</a></li>
 <li><a href="https://github.com/shatcung/shatcung/tree/main/Testing_documentation/Test-cases">Test-cases</a></li>
+<li><a href="https://github.com/shatcung/shatcung/tree/main/Testing_documentation/Test%20Plan">Test-cases</a></li>
+
 
 
 ### Skills | Tools
